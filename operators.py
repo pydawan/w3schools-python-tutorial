@@ -85,7 +85,7 @@
 #               specified value is present in the object
 #
 #  not in       Returns True if a sequence with the
-#               specified value is not present in the object    x not in y
+#               specified valuet is not present in the object    x not in y
 
 
 # Python Bitwise Operators

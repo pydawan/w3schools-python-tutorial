@@ -60,3 +60,4 @@ cars.remove("Volvo")
 # sort()                                    Sorts the list
 
 # Note: Python does not have built-in support for Array, but Python Lists can be used instead.
+
